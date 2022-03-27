@@ -1,0 +1,5 @@
+Ogólnie o command
+https://youtu.be/9qA5kw8dcSU?t=1090
+
+StackOverflow - parametry do execute()
+https://stackoverflow.com/questions/43872241/using-the-command-pattern-with-parameters
